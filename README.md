@@ -7,6 +7,10 @@ IMAP library
 
 A PHP 5.4+ library to read and process e-mails over IMAP.
 
+Edit:
+
+This is a fork of the original library by [David de Boer](https://github.com/ddeboer/imap).
+
 Installation
 ------------
 
