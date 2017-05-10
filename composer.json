@@ -1,5 +1,5 @@
 {
-    "name": "ddeboer/imap",
+    "name": "adsolvix/imap",
     "description": "Object-oriented IMAP for PHP",
     "keywords": [ "email", "mail", "imap" ],
     "license": "MIT",
@@ -8,6 +8,10 @@
             "name": "David de Boer",
             "email": "david@ddeboer.nl"
         },
+        {
+            "name": "Adam Parusel",
+            "email": "ap@adsolvix.com"
+        },        
         {
             "name": "Community contributors",
             "homepage": "https://github.com/ddeboer/imap/graphs/contributors"
